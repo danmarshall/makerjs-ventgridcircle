@@ -1,0 +1,3 @@
+.npmignore
+typings
+*.ts
