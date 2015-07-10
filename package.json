@@ -1,6 +1,6 @@
 {
   "name": "makerjs-ventgridcircle",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A grid of circles constrained within a larger circle, for Maker.js",
   "main": "ventgridcircle.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/danmarshall/makerjs-ventgridcircle",
   "dependencies": {
-    "makerjs": "^0.1.2",
-    "makerjs-ventgrid": "^1.0.1"
+    "makerjs": "^0.2.0",
+    "makerjs-ventgrid": "^1.1.0"
   }
 }
