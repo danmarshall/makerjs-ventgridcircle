@@ -1,3 +1,4 @@
 .npmignore
 typings
 *.ts
+tsd.json
