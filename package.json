@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/danmarshall/makerjs-ventgridcircle",
   "dependencies": {
-    "makerjs": "^0.2.1",
+    "makerjs": ">=0.19.2",
     "makerjs-ventgrid": "^1.1.1"
   },
   "devDependencies": {
